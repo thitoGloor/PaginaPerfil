@@ -1,0 +1,87 @@
+body {
+    padding-top: 10px;
+    background-color: rgba(148, 147, 147, 0.342);
+}
+.inicio{  
+    font-style: oblique;
+    text-align: center;
+    font-size: x-large;
+    border-style: hidden;
+    border-radius: 10px;    
+    margin-left: 20%;
+    margin-right: 10%;
+    color: rgb(255, 255, 255);
+    background-color:rgb(25, 100, 143);
+}
+.texto{
+    font-style: oblique;
+    text-align: justify;
+    font-size: large;
+    border-style: hidden;    
+    border-radius: 15px;
+    margin-left: 20%;
+    margin-right: 10%;
+    color:  rgb(25, 100, 143);
+    padding-bottom: 70px; 
+    line-height: 1.5;   
+}
+.paragrafo{   
+    
+    font-size: larger;
+    font-style: oblique;
+    font-weight: bold;
+    line-height: 1.9;   
+
+}
+.linha1{
+     
+    border-radius: 15px;
+    border-style: hidden;
+    font-style: oblique;
+    background-color: rgb(25, 100, 143);
+    color: white;
+    font-size: larger;
+    margin-right: 75%;
+}
+.lista{
+    font-weight: bold;
+    font-size: x-large;
+    line-height: 1.9;   
+
+}
+.sublista{
+    font-size: large;
+    line-height: 1.9;   
+
+}
+img{
+    border-radius: 7%;
+    margin-left: 5%;
+    width: 90%;
+}
+.nome{
+    color: aqua;
+}
+.menu{
+    padding-top: 20px;
+    padding-left: 10px;
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: grey;
+   
+    
+}
+.item a{
+    color: whitesmoke;
+    font-style: oblique;
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+}
+.item :hover{
+
+background-color: yellowgreen;
+}
